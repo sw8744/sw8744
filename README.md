@@ -5,6 +5,7 @@
 ## 🧭 My stats 
 [![thislife_won's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw8744)](https://github.com/anuraghazra/github-readme-stats)
 
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/sw8744)
 
 [![ishs301117](http://mazassumnida.wtf/api/v2/generate_badge?boj=ishs301117)](https://solved.ac/ishs301117)
 
