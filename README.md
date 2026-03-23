@@ -1,5 +1,5 @@
 ### 👋 This is thislife_won
-#### in ISHS 30th
+#### in Konkuk University, Computer Science and Engineering
 
 
 ## 🧭 My stats 
@@ -7,7 +7,7 @@
 
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/sw8744)
 
-[![ishs301117](http://mazassumnida.wtf/api/v2/generate_badge?boj=ishs301117)](https://solved.ac/ishs301117)
+[![thislife_won](http://mazassumnida.wtf/api/v2/generate_badge?boj=thislifewon)](https://solved.ac/thislifewon)
 
 
 ## 🖥️ I can use:
