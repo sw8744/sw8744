@@ -4,27 +4,27 @@
 
 <table>
   <tr>
-    <td width="34"><img src="./assets/ishs.png" width="25" height="25" alt="ISHS"></td>
+    <td><img src="./assets/ishs.png" width="40" height="40" alt="ISHS"></td>
     <td><b>Incheon Science High School</b></td>
     <td>2023 – 2025</td>
   </tr>
   <tr>
-    <td><img src="./assets/plutonium.png" width="25" height="25" alt="Plutonium"></td>
+      <td><img src="./assets/plutonium.png" width="40" height="40" alt="Plutonium"></td>
     <td><b>Plutonium</b> · Mechatronics Club Leader</td>
     <td>2023 – 2025</td>
   </tr>
   <tr>
-    <td><img src="./assets/meca.png" width="25" height="25" alt="Meca"></td>
+    <td><img src="./assets/meca.png" width="40" height="40" alt="Meca"></td>
     <td><b>Meca</b> · 3D Printing Club Member</td>
     <td>2023 – 2025</td>
   </tr>
   <tr>
-    <td><img src="./assets/konkuk.png" width="25" height="25" alt="Konkuk University"></td>
+    <td><img src="./assets/konkuk.png" width="40" height="40" alt="Konkuk University"></td>
     <td><b>Konkuk University</b> · Computer Science and Engineering</td>
     <td>2026 – Present</td>
   </tr>
   <tr>
-    <td><img src="./assets/dolbat.png" width="25" height="25" alt="Dolbat"></td>
+    <td><img src="./assets/dolbat.png" width="40" height="40" alt="Dolbat"></td>
     <td><b>Dolbat</b> · Mechanics Club, Autonomous Driving</td>
     <td>2026 – Present</td>
   </tr>
