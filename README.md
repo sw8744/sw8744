@@ -144,6 +144,12 @@
 
 ### 2026
 
+#### <img src="./assets/konkuk.png" width="25" height="25" alt="Konkuk University"> [Repcast](https://github.com/sw8744/Repcast)
+
+ESP32를 활용하여 사용자의 운동량을 측정하여 이를 사용자와 헬스장 모두에게 제공하는 헬스케어 서비스입니다.
+
+[![RepCast 시연 영상 썸네일](https://i.ytimg.com/vi_webp/O5WpgZyXY48/hq2.webp)](https://youtube.com/shorts/O5WpgZyXY48)
+
 #### <img src="./assets/dolbat.png" width="25" height="25" alt="Dolbat"> [Dolbat-Toy-Project](https://github.com/sw8744/Dolbat-Toy-Project)
 
 Sliding Window 기법을 통해 차선을 인식하고 주행 경로를 계획하는 프로젝트입니다.
