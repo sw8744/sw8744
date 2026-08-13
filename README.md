@@ -38,6 +38,8 @@
 - <img src="./assets/government.png" width="22" height="22" alt="Government"> **2023 메타버스개발자경진대회 우수상** — [Mexpo](https://github.com/sw8744/Mexpo)
 - <img src="./assets/incheon-edu.png" width="22" height="22" alt="Incheon Education"> **2024 제44회 인천광역시과학전람회 우수상** — [2024-TetraLee-JRH](https://github.com/sw8744/2024-TetraLee-JRH)
 - <img src="./assets/government.png" width="22" height="22" alt="Government"> **2024 제9회 전국 고등학교동아리소프트웨어경진대회 금상** — [Baekwoon](https://github.com/sw8744/Baekwoon)
+- <img src="./assets/government.png" width="22" height="22" alt="Government"> **2024 제9회 전국 고등학교동아리소프트웨어경진대회 금상** — [Baekwoon](https://github.com/sw8744/Baekwoon)
+- <img src="./assets/dolbat.png" width="22" height="22" alt="Government"> **2026 전국 대학생 AI자율주행경진대회 장려상** — [dolbatS](https://github.com/sw8744/dolbatS)
 
 ## Skills
 
@@ -143,6 +145,12 @@
 ## Projects
 
 ### 2026
+
+#### <img src="./assets/dolbat.png" width="25" height="25" alt="Konkuk University"> [2026 전국 대학생 AI자율주행경진대회](https://github.com/sw8744/dolbatS)
+
+유아용 전동차 플랫폼을 사용하여 차선주행, 장애물 회피, 신호등 정차, 주차 미션을 수행하는 대회입니다. 장애물 회피 로직 설계 및 구현을 맡아서 진행하였습니다.
+
+[![돌밭 장애물 회피](./assets/dolbat-obstacle.gif)
 
 #### <img src="./assets/konkuk.png" width="25" height="25" alt="Konkuk University"> [Repcast](https://github.com/sw8744/Repcast)
 
