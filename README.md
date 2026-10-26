@@ -146,6 +146,8 @@
 
 ### 2026
 
+#### <img src="./assets/konkuk.png" width="25" height="25" alt="Konkuk University"> [travel-project](https://github.com/sw8744/travel-project)
+
 #### <img src="./assets/dolbat.png" width="25" height="25" alt="Konkuk University"> [HL FMA 2026](https://github.com/sw8744/Mando2026_ws)
 
 #### <img src="./assets/dolbat.png" width="25" height="25" alt="Konkuk University"> [2026 전국 대학생 AI자율주행경진대회](https://github.com/sw8744/dolbatS)
