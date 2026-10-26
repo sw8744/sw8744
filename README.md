@@ -148,9 +148,9 @@
 
 #### <img src="./assets/konkuk.png" width="25" height="25" alt="Konkuk University"> [travel-project](https://github.com/sw8744/bef-trip)
 
-![bef-trip](https://github.com/sw8744/bef-trip/blob/main/assets/bag.png?raw=true)
-
 무장애 여행을 위한 여행지 추천 및 공유 서비스입니다. 백엔드 및 프론트엔드를 개발하였습니다.
+
+![bef-trip](https://github.com/sw8744/bef-trip/blob/main/assets/bag.png?raw=true)
 
 #### <img src="./assets/dolbat.png" width="25" height="25" alt="Konkuk University"> [HL FMA 2026](https://github.com/sw8744/Mando2026_ws)
 
